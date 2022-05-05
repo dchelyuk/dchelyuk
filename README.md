@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dchelyuk
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on Java and Python projects
 - 📫 How to reach me dchelyuk@gmail.com
 
 <!---
